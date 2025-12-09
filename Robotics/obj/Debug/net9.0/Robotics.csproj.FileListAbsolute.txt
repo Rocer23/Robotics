@@ -1,0 +1,14 @@
+E:\Robotics\Robotics\bin\Debug\net9.0\Robotics.exe
+E:\Robotics\Robotics\bin\Debug\net9.0\Robotics.deps.json
+E:\Robotics\Robotics\bin\Debug\net9.0\Robotics.runtimeconfig.json
+E:\Robotics\Robotics\bin\Debug\net9.0\Robotics.dll
+E:\Robotics\Robotics\bin\Debug\net9.0\Robotics.pdb
+E:\Robotics\Robotics\obj\Debug\net9.0\Robotics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Robotics\Robotics\obj\Debug\net9.0\Robotics.AssemblyInfoInputs.cache
+E:\Robotics\Robotics\obj\Debug\net9.0\Robotics.AssemblyInfo.cs
+E:\Robotics\Robotics\obj\Debug\net9.0\Robotics.csproj.CoreCompileInputs.cache
+E:\Robotics\Robotics\obj\Debug\net9.0\Robotics.dll
+E:\Robotics\Robotics\obj\Debug\net9.0\refint\Robotics.dll
+E:\Robotics\Robotics\obj\Debug\net9.0\Robotics.pdb
+E:\Robotics\Robotics\obj\Debug\net9.0\Robotics.genruntimeconfig.cache
+E:\Robotics\Robotics\obj\Debug\net9.0\ref\Robotics.dll
