@@ -5,17 +5,17 @@ namespace Robotics
     {
         public override AbstractSensor CreateSensor()
         {
-            return new ForceSensor();
+            return new ForceSensor(200.0f);
         }
 
         public override AbstractActuator CreateActuator()
         {
-            return new ServoMotor();
+            return new ServoMotor(15.0f);
         }
 
         public override AbstractController CreateController()
         {
-            return new KinematicController();
+            return new KinematicController(6);
         }
     }
 }

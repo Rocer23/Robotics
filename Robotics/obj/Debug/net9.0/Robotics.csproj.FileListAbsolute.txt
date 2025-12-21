@@ -12,3 +12,4 @@ E:\Robotics\Robotics\obj\Debug\net9.0\refint\Robotics.dll
 E:\Robotics\Robotics\obj\Debug\net9.0\Robotics.pdb
 E:\Robotics\Robotics\obj\Debug\net9.0\Robotics.genruntimeconfig.cache
 E:\Robotics\Robotics\obj\Debug\net9.0\ref\Robotics.dll
+E:\Robotics\Robotics\obj\Debug\net9.0\Robotics.sourcelink.json

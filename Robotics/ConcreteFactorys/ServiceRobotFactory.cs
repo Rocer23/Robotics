@@ -5,12 +5,12 @@ namespace Robotics
     {
         public override AbstractSensor CreateSensor()
         {
-            return new NavigationSensor();
+            return new NavigationSensor(true, true);
         }
 
         public override AbstractActuator CreateActuator()
         {
-            return new WheelMotor();
+            return new WheelMotor(10.0f);
         }
 
         public override AbstractController CreateController()
